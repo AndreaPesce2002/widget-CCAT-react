@@ -1,0 +1,21 @@
+{
+    "name": "widget-ccat",
+    "version": "1.0.5",
+    "description": "Un widget di chat con il CCAT.",
+    "main": "index.jsx", 
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["react", "chat", "widget", "ccat", "cheshire-cat-ai","ai"],
+    "author": "Andrea Pesce",
+    "license": "MIT",
+    "peerDependencies": {
+      "react": ">=16.8.0",
+      "react-dom": ">=16.8.0",
+      "framer-motion": "^10.12.18",
+      "@mui/material": "^5.14.13",
+      "@mui/icons-material": "^5.14.13",
+      "react-icons": "^4.11.0",
+      "ccat-api": "latest" 
+    }
+  }
