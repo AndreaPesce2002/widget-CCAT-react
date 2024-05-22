@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/widget-ccat.svg)](https://www.npmjs.com/package/widget-ccat) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Easily integrate a customizable conversational artificial intelligence into your website or application with the Widget CCAT. This lightweight and versatile React component offers an engaging user experience thanks to its intuitive chat interface and entertaining cat animations.
+Easily integrate a customizable conversational artificial intelligence into your website or application with the [Widget CCAT](https://www.npmjs.com/package/widget-ccat?activeTab=readme). This lightweight and versatile React component offers an engaging user experience thanks to its intuitive chat interface and entertaining cat animations.
 
 ## Main Features
 
