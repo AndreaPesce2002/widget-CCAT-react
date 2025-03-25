@@ -90,7 +90,7 @@ const Widget_CCAT = ({
     async function restCCAT() {
       setcat(
         new CatClient({
-          baseUrl: baseUrl,
+          host: baseUrl,
           port: port,
         })
           .onConnected(() => {
